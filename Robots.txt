@@ -1,5 +1,4 @@
 User-agent: *
 Disallow: /.git/
-Disallow: /img/
-Disallow: /js/
-Disallow: /css/
+Disallow: /assets/
+Disallow: /images/
