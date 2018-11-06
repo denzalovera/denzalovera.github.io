@@ -4,3 +4,5 @@
 *.zip
 *.gzip
 *.rar
+.vscode
+.gitignore
