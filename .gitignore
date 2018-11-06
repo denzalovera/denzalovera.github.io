@@ -1,4 +1,10 @@
 /.idea
 *.exe
 *.log
-
+*.zip
+*.gzip
+*.rar
+.vscode
+.gitignore
+notes.txt
+temp_img

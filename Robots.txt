@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 User-agent: *
 Disallow: /.git/
 Disallow: /img/
 Disallow: /js/
 Disallow: /css/
+=======
+User-agent: *
+Disallow: /.git/
+Disallow: /assets/
+Disallow: /images/
+>>>>>>> develop
