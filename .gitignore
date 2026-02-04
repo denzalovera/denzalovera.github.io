@@ -8,3 +8,5 @@
 .gitignore
 notes.txt
 temp_img
+.DS_Store
+images/.DS_Store
